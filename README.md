@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Generative AI revolution Transformers Natural Language Processing (NLP) for creative writing AI-generated art and music**
 
-- 📫 How to reach me **Feel free to reach out to me via email at sasivinay2001@gmail.com or connect with me on [LinkedIn].**
+- 📫 How to reach me **Feel free to reach out to me via email at sasivinay2001@gmail.com or connect with me on linkedin sasivinay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
