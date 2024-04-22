@@ -1,26 +1,22 @@
 <h1 align="center">Hi 👋, I'm vinay kanumilli</h1>
 <h3 align="center">I'm a passionate Generative AI Developer with a knack for crafting innovative solutions through the power of machine learning and neural networks. My journey in the realm of AI has been a fascinating exploration of creativity and technology, driven by a desire to push the boundaries of what's possible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykanumilli123&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykanumilli123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykanumilli123" alt="vinaykanumilli123" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **email context generator**
 
 - 🌱 I’m currently learning **Lang chain modules and llms**
 
 - 👯 I’m looking to collaborate on **real time genAI projects**
 
-- 🤝 I’m looking for help with **email context generator**
-
-- 💬 Ask me about **Generative Adversarial Networks (GANs) Natural Language Processing (NLP) for creative writing AI-generated art and music**
+- 💬 Ask me about **Generative AI revolution Transformers Natural Language Processing (NLP) for creative writing AI-generated art and music**
 
 - 📫 How to reach me **Feel free to reach out to me via email at sasivinay2001@gmail.com or connect with me on [LinkedIn].**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sasi vinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasi vinay" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_v_i_n_n_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_v_i_n_n_u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sasivinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasivinay" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_.v_i_n_n_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_.v_i_n_n_u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vinay kanumilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinay kanumilli" height="30" width="40" /></a>
 </p>
 
